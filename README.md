@@ -1,3 +1,8 @@
+# ARCHIVED
+This repository has been archived in order to keep it consistent with what is being described in my master's thesis.
+
+For a more up-to-date version, go to https://github.com/m-machala/OpenCellLab-Simulator for the simulator and https://github.com/m-machala/OpenCellLab-Modules for the modules.
+
 # OpenCellLab
 Open and modular asynchronous cell automata simulator.
 This project is a part of my master's thesis.
